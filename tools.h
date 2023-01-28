@@ -11,7 +11,7 @@
 #define CTOOLS
 
 #define title "Program 1: Letter List"
-#define NAME "Anthony and Justin"
+#define NAME "Justin"
 #define CLASS "CSCI 2212"
 //#define PRN     "prn"
 
