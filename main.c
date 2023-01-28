@@ -1,4 +1,4 @@
-//Justin Vasquez and Anthony Yannella
+//Justin Vasquez
 #include "tools.h"
 int main(void){
     banner(); //This runs the banner function.
@@ -28,9 +28,4 @@ int main(void){
     bye();// If code was done correctly
 	  return 0;
 }//true end 
-/*----------------------------------------------------
-    Program 1: Letter List 
-    Anthony and Justin 
-    CSCI 2212 
-    Thu Feb 10 2022  17:41:42
-----------------------------------------------------*/
+
